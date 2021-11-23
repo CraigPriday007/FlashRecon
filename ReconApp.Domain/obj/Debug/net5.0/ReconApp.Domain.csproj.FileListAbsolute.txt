@@ -1,0 +1,36 @@
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/bin/Debug/net5.0/ReconApp.Domain.deps.json
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/bin/Debug/net5.0/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/bin/Debug/net5.0/ref/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/bin/Debug/net5.0/ReconApp.Domain.pdb
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.csproj.AssemblyReference.cache
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.AssemblyInfoInputs.cache
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.AssemblyInfo.cs
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.csproj.CoreCompileInputs.cache
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/obj/Debug/net5.0/ref/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconApp.Domain/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.pdb
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/bin/Debug/net5.0/ReconApp.Domain.deps.json
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/bin/Debug/net5.0/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/bin/Debug/net5.0/ref/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/bin/Debug/net5.0/ReconApp.Domain.pdb
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.csproj.AssemblyReference.cache
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.AssemblyInfoInputs.cache
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.AssemblyInfo.cs
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.csproj.CoreCompileInputs.cache
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/obj/Debug/net5.0/ref/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/Recon Solution/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.pdb
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/bin/Debug/net5.0/ReconApp.Domain.deps.json
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/bin/Debug/net5.0/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/bin/Debug/net5.0/ref/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/bin/Debug/net5.0/ReconApp.Domain.pdb
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.csproj.AssemblyReference.cache
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.AssemblyInfoInputs.cache
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.AssemblyInfo.cs
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.csproj.CoreCompileInputs.cache
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/obj/Debug/net5.0/ref/ReconApp.Domain.dll
+/Users/craigpriday/Documents/Flash/Projects/Recon/Development/ReconUI/ReconApp.Domain/obj/Debug/net5.0/ReconApp.Domain.pdb
